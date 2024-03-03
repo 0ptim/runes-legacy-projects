@@ -38,8 +38,7 @@
       },
       {
         "url": "https://magiceden.io/ordinals/marketplace/trg",
-        "type": "Website",
-        "label": "Magic Eden"
+        "type": "MagicEden"
       }
     ],
     "tags": ["NFT"]
@@ -63,5 +62,52 @@
       }
     ],
     "tags": ["NFT"]
+  },
+  {
+    "id": "runemaniaminer",
+    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "name": "Rune Mania Miner",
+    "description": "The ultimate mining challenge in the wastelands of the future.",
+    "longDescription": "???",
+    "mainURL": "https://runemania.com",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/RuneManiaMiner",
+        "type": "X"
+      },
+      {
+        "url": "https://rune-mania.gitbook.io/rmm/",
+        "type": "Documentation"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/rmm",
+        "type": "MagicEden"
+      }
+    ],
+    "tags": ["NFT"]
+  },
+  {
+    "id": "runesterminal",
+    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "name": "Runes Terminal",
+    "description": "Infrastructure Provider on Runes Protocol.",
+    "longDescription": "???",
+    "mainURL": "https://runesterminal.io",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/runes_terminal",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.gg/whBnamzUU9",
+        "type": "Discord"
+      },
+      {
+        "url": "https://t.me/runesterminal_official",
+        "type": "Telegram"
+      }
+    ]
   }
 ]
