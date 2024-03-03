@@ -21,6 +21,7 @@
   "id": "",
   "updatedAt": "",
   "name": "",
+  "symbol": "",
   "description": "",
   "longDescription": "",
   "mainURL": "",
@@ -65,6 +66,8 @@
 - `name`
   - Project name
   - Max 25 characters
+- `symbol`
+  - Project symbol
 - `description`
   - Project description
   - One sentence that describes your project
