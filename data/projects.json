@@ -1,0 +1,67 @@
+[
+  {
+    "id": "runeslegacy",
+    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "name": "Runes Legacy",
+    "description": "Exploring runes together! ▣📚 Latest insights, discussion and a supportive community. Let's Rune!",
+    "longDescription": "???",
+    "mainURL": "https://runeslegacy.com",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/runes_legacy",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.com/invite/AsUa59zqcG",
+        "type": "Discord"
+      }
+    ],
+    "tags": ["Explorer"]
+  },
+  {
+    "id": "theruneguardians",
+    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "name": "The Rune Guardians",
+    "description": "ᛊ. Partake in our massive ᛊ100,000,000,000 Rune airdrop.",
+    "longDescription": "The Rune Guardians: Protectors of mystical runes.\n\nThis elite 10k Collection, magically airdropped to Guardian Masters across the Ordinal Universe, bridges the guardians with their celestial duty.\n\nTap into your Guardian to unveil your rune balance, a reflection of your bond with the ancient elements.\n\nEach block heralds new rewards, celebrating the symbiosis of Guardians and the sacred runes they safeguard.",
+    "mainURL": "https://theruneguardians.com",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/RuneGuardians",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.gg/RuneGuardians",
+        "type": "Discord"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/trg",
+        "type": "Website",
+        "label": "Magic Eden"
+      }
+    ],
+    "tags": ["NFT"]
+  },
+  {
+    "id": "runecoin",
+    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "name": "Runecoin",
+    "description": "RSIC: A PEER-TO-PEER RUNE ALLOCATION SYSTEM.",
+    "longDescription": "???",
+    "mainURL": "https://runecoin.io",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/rune_coin",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.gg/runecoin",
+        "type": "Discord"
+      }
+    ],
+    "tags": ["NFT"]
+  }
+]
