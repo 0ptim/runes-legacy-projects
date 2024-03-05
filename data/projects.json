@@ -103,6 +103,10 @@
         "type": "Discord"
       },
       {
+        "url": "https://magiceden.io/ordinals/marketplace/rsic",
+        "type": "MagicEden"
+      },
+      {
         "url": "https://www.ord.io/57066799",
         "type": "Documentation"
       }
