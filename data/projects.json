@@ -122,7 +122,7 @@
     "name": "Runestone",
     "symbol": "TBA",
     "description": "NFT project blending art, technology, and community.",
-    "longDescription": "The Runestones project, initiated by @Leonidas_NFT with collaboration from @ordinalsbot and @MarathonDH, is an innovative ordinals collection designed to be airdropped to 112,383 wallets. This unique digital art collection, crafted by the talented @leocaillard, marks a significant event in the blockchain community by being part of the two largest inscriptions made to date, each nearly 3.97 MB.\n\nJust two days prior to the announcement, the parent inscription and the Runestone itself were inscribed, setting new records for size within the Bitcoin blockchain. To qualify for the airdrop, owners needed to have three inscriptions in block 826,600, with specific format exclusions. Eligibility can be verified via OKX's toolkit (see link below).\n\nThis groundbreaking project not only showcases the capabilities of digital art on the blockchain but also provides a unique opportunity for collectors and enthusiasts to be part of a historic moment in cryptocurrency.",
+    "longDescription": "The Runestones project, initiated by Leonidas with collaboration from OrdinalsBot and Marathon Digital Holdings, is an innovative ordinals collection designed to be airdropped to 112,383 wallets. This unique digital art collection, crafted by the talented Leo Caillard, marks a significant event in the blockchain community by being part of the two largest inscriptions made to date, each nearly 3.97 MB.\n\nThe parent inscription and the Runestone itself were inscribed, setting new records for size within the Bitcoin blockchain. To qualify for the airdrop, owners needed to have three inscriptions in block 826,600, with specific format exclusions. Eligibility can be verified via OKX's toolkit (see link below).\n\nThis groundbreaking project not only showcases the capabilities of digital art on the blockchain but also provides a unique opportunity for collectors and enthusiasts to be part of a historic moment in cryptocurrency.",
     "mainURL": "https://www.ord.io/63140674",
     "status": "LiveService",
     "links": [
@@ -130,6 +130,52 @@
         "url": "https://www.okx.com/de/web3/toolkit/btc-airdrop",
         "type": "Website",
         "label": "Check Eligibility"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "Leonidas",
+        "role": "Initiator",
+        "img": "runestone_leonidas.jpg",
+        "links": [
+          {
+            "url": "https://x.com/LeonidasNFT",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Leo Caillard",
+        "role": "Artist",
+        "img": "runestone_leocaillard.jpg",
+        "links": [
+          {
+            "url": "https://x.com/leocaillard",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "OrdinalsBot",
+        "role": "Inscription Platform",
+        "img": "runestone_ordinalsbot.jpg",
+        "links": [
+          {
+            "url": "https://x.com/ordinalsbot",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Marathon Digital Holdings",
+        "role": "Collaborator",
+        "img": "runestone_marathondh.jpg",
+        "links": [
+          {
+            "url": "https://x.com/MarathonDH",
+            "type": "X"
+          }
+        ]
       }
     ],
     "tags": ["NFT"]
