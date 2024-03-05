@@ -1,11 +1,11 @@
 [
   {
     "id": "runeslegacy",
-    "updatedAt": "2024-03-02T00:00:00.000Z",
+    "updatedAt": "2024-03-05T00:00:00.000Z",
     "name": "Runes Legacy",
     "symbol": "TBA",
-    "description": "Exploring runes together! ▣ Latest insights, discussion and a supportive community. Let's Rune!",
-    "longDescription": "???",
+    "description": "Exploring Runes together - Let's Rune! ▣",
+    "longDescription": "We created \"Runes Legacy\" to provide a platform for the community to explore and discuss the latest insights and developments in the world of Runes. We aim to provide a supportive environment for enthusiasts and newcomers alike, offer a space for discussion and collaboration.\n\nWe want to make the topic easy and fun to understand, and we are committed to providing the latest news and insights to our community. We believe that the more people understand the potential of Runes, the more they will be able to contribute to the development of the ecosystem.\n\nWe are excited to have you join us on this journey and look forward to exploring Runes together!",
     "mainURL": "https://runeslegacy.com",
     "status": "LiveService",
     "links": [
@@ -16,6 +16,41 @@
       {
         "url": "https://discord.com/invite/AsUa59zqcG",
         "type": "Discord"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "Peddy",
+        "role": "Social Media Manager",
+        "img": "runeslegacy_peddy.jpg",
+        "links": [
+          {
+            "url": "https://x.com/peddy2612",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "punktoshi",
+        "role": "Community Manager",
+        "img": "runeslegacy_punktoshi.jpg",
+        "links": [
+          {
+            "url": "https://x.com/punktoshi1",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "0ptim",
+        "role": "Developer",
+        "img": "runeslegacy_0ptim.jpg",
+        "links": [
+          {
+            "url": "https://x.com/0ptim_",
+            "type": "X"
+          }
+        ]
       }
     ],
     "tags": ["Explorer"]
