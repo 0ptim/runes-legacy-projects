@@ -174,31 +174,6 @@
     "tags": ["NFT"]
   },
   {
-    "id": "runemaniaminer",
-    "updatedAt": "2024-03-02T00:00:00.000Z",
-    "name": "Rune Mania Miner",
-    "symbol": "TBA",
-    "description": "The ultimate mining challenge in the wastelands of the future.",
-    "longDescription": "???",
-    "mainURL": "https://runemania.com",
-    "status": "LiveService",
-    "links": [
-      {
-        "url": "https://x.com/RuneManiaMiner",
-        "type": "X"
-      },
-      {
-        "url": "https://rune-mania.gitbook.io/rmm/",
-        "type": "Documentation"
-      },
-      {
-        "url": "https://magiceden.io/ordinals/marketplace/rmm",
-        "type": "MagicEden"
-      }
-    ],
-    "tags": ["NFT"]
-  },
-  {
     "id": "runesterminal",
     "updatedAt": "2024-03-02T00:00:00.000Z",
     "name": "Runes Terminal",
