@@ -179,7 +179,7 @@
     "name": "Runes Terminal",
     "symbol": "TBA",
     "description": "Infrastructure Provider on Runes Protocol.",
-    "longDescription": "???",
+    "longDescription": "Runesterminal is a platform enhancing the Runes ecosystem by providing tools and support. It offers a Runes explorer (RunesScan), token creation without coding (RunesEtcher), and a launchpad (Runespad) for developers and teams. It simplifies app development on the Runes Protocol, facilitates token creation, provides expert advice, and connects users with a Runes developer community. Additionally, it offers funding access and marketing support for projects.\n\nIts infrastructure includes Runes Explorer, a token issuer, and Runespad, which integrates liquidity from EVM chains into Bitcoin. Runespad supports vetted and non-vetted projects, aiming to enhance Web3 innovation and facilitate cross-blockchain fundraising.\n\nThe platform is launching a 5k Ordinals collection to mine $RUNI tokens pre-Runes Protokol launch, with different species mining at varied rates. $RUNI is key for community engagement, offering access to tools, investment opportunities, and governance, linking holders with an investor and developer network.",
     "mainURL": "https://runesterminal.io",
     "status": "LiveService",
     "links": [
@@ -194,6 +194,48 @@
       {
         "url": "https://t.me/runesterminal_official",
         "type": "Telegram"
+      },
+      {
+        "url": "https://docsend.com/view/ann9gaqy63988fbv",
+        "type": "Website",
+        "label": "Pitch Deck"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "dom",
+        "role": "co-founder",
+        "img": "runesterminal_dom.jpg"
+      },
+      {
+        "name": "ham",
+        "role": "co-founder, tech-lead",
+        "img": "runesterminal_ham.jpg"
+      },
+      {
+        "name": "david",
+        "role": "advisor",
+        "img": "runesterminal_david.jpg"
+      },
+      {
+        "name": "naqib",
+        "role": "advisor",
+        "img": "runesterminal_naqib.jpg"
+      },
+      {
+        "name": "ped",
+        "role": "social engeneer",
+        "img": "runesterminal_ped.jpg"
+      },
+      {
+        "name": "ken",
+        "role": "og",
+        "img": "runesterminal_ken.jpg"
+      },
+      {
+        "name": "charlie shrem",
+        "role": "advisor",
+        "img": "runesterminal_charlie_shrem.jpg"
       }
     ],
     "tags": ["NFT"]
