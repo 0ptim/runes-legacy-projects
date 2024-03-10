@@ -124,7 +124,7 @@
     "updatedAt": "2024-03-05T00:00:00.000Z",
     "name": "Runecoin",
     "symbol": "TBA",
-    "description": "Runestone: Enhancing Bitcoin with Rune Allocation & RSIC",
+    "description": "RSIC: A PEER-TO-PEER RUNE ALLOCATION SYSTEM",
     "longDescription": "Rune Specific Inscription Circuits (RSIC) is an ordinals collection with 21k inscriptions in total. The goal is to hold these ordinals to \"mine\" the upcoming token launch the project has planned. For every Bitcoin block, a number of tokens will be allocated to the holders.\n\nThe project launched on 20th January 2024 and has distributed all 21k ordinals to the community for free.\n\nTo learn more about the exact details of the mining process, click \"Documentation\" down below.",
     "mainURL": "https://runecoin.io",
     "status": "LiveService",
