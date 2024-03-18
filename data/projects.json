@@ -57,7 +57,7 @@
   },
   {
     "id": "runestone",
-    "updatedAt": "2024-03-05T00:00:00.000Z",
+    "updatedAt": "2024-03-18T00:00:00.000Z",
     "name": "Runestone",
     "symbol": "TBA",
     "description": "Ordinals project blending art, technology, and community.",
@@ -66,9 +66,8 @@
     "status": "LiveService",
     "links": [
       {
-        "url": "https://www.okx.com/de/web3/toolkit/btc-airdrop",
-        "type": "Website",
-        "label": "Check Eligibility"
+        "url": "https://magiceden.io/ordinals/marketplace/runestone",
+        "type": "MagicEden"
       }
     ],
     "initiators": [
