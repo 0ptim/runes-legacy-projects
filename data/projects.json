@@ -68,6 +68,11 @@
       {
         "url": "https://magiceden.io/ordinals/marketplace/runestone",
         "type": "MagicEden"
+      },
+      {
+        "url": "https://geniidata.com/user/orddata/runestone",
+        "type": "Website",
+        "label": "Statistics"
       }
     ],
     "initiators": [
