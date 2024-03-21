@@ -192,3 +192,28 @@
     - This will override the default label for the link type
     - Recommended if you have multiple links of the same type like multiple Telegram groups
     - Max 20 characters
+
+## Spaces
+
+Add spaces to the `/data/spaces.json` file.
+
+```json
+{
+  "id": "",
+  "title": "",
+  "XSpaceURL": ""
+}
+```
+
+- `id`
+  - This is the ID of the space
+  - It must be unique
+  - Max 20 characters
+- `title`
+  - The title of the space
+  - Max 25 characters
+- `XSpaceURL`
+  - The URL of the X Space
+  - This will be used to display a button which links to the X Space on X
+
+The mp3 audio file should be placed in the `/data/spaces` folder and should correspond to the `id` of the space in the `spaces.json` file.
