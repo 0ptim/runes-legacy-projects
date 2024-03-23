@@ -1,0 +1,41 @@
+[
+  {
+    "id": "letsrune_2",
+    "title": "Let's Rune #2: Introducing \"Runes Legacy\"",
+    "description": "Research Team, WL Spot Allocations, Website and more!",
+    "XSpaceURL": "https://twitter.com/i/spaces/1nAJEaDMVBeJL",
+    "datetime": "2024-03-03 19:00:00 UTC",
+    "hosts": ["peddy2612", "DoggfatherCrew"],
+    "guests": ["runetoshi_"],
+    "mp3_file_name": "letsrune_2.mp3"
+  },
+  {
+    "id": "letsrune_3",
+    "title": "Let's Rune #3: Introducing \"Runes Legacy\"",
+    "description": "New Projects: @runes_terminal and @glyphs_runes, Runestone Updates, @ordzaar Claiming Runes?",
+    "XSpaceURL": "https://twitter.com/i/spaces/1DXxyjoLEAgKM",
+    "datetime": "2024-03-10 19:00:00 UTC",
+    "hosts": ["peddy2612", "DoggfatherCrew"],
+    "guests": ["Web3Humanz"],
+    "mp3_file_name": "letsrune_3.mp3"
+  },
+  {
+    "id": "letsrune_4",
+    "title": "Let's Rune #4: WE GOT STONED!",
+    "description": "New Project: @AI_Rune (Runes Totem), Runestone Updates, Testnet Launch: @XverseApp on Runes Testnet",
+    "XSpaceURL": "https://twitter.com/i/spaces/1BdxYrgoeeZKX",
+    "datetime": "2024-03-17 19:00:00 UTC",
+    "hosts": ["peddy2612", "DoggfatherCrew"],
+    "guests": [],
+    "mp3_file_name": "letsrune_4.mp3"
+  },
+  {
+    "id": "letsrune_5",
+    "title": "Let's Rune #5: Airdrop insanity!",
+    "description": "Latest Updates in the Runes Space, Airdrop Insanity and more!",
+    "XSpaceURL": "https://twitter.com/i/spaces/1jMKgmYdoVOJL",
+    "datetime": "2024-03-24 19:00:00 UTC",
+    "hosts": ["peddy2612", "DoggfatherCrew"],
+    "guests": ["btcordinal", "glyphs_runes", "BitcoinBurials"]
+  }
+]

@@ -201,7 +201,12 @@ Add spaces to the `/data/spaces.json` file.
 {
   "id": "",
   "title": "",
-  "XSpaceURL": ""
+  "description": "",
+  "XSpaceURL": "",
+  "datetime": "",
+  "hosts": [""],
+  "guests": [""],
+  "mp3_file_name": ""
 }
 ```
 
@@ -212,8 +217,19 @@ Add spaces to the `/data/spaces.json` file.
 - `title`
   - The title of the space
   - Max 25 characters
+- `description`
+  - The description of the space
 - `XSpaceURL`
   - The URL of the X Space
   - This will be used to display a button which links to the X Space on X
+- `datetime`
+  - The date and time of the space
+  - Format: `YYYY-MM-DD HH:mm:ss UTC`
+- `hosts`
+  - This is an array of hosts X handles
+- `guests`
+  - This is an array of guests X handles
+- `mp3_file_name`
+  - The file name of the mp3 audio file of the space
 
-The mp3 audio file should be placed in the `/data/spaces` folder and should correspond to the `id` of the space in the `spaces.json` file.
+The mp3 audio file should be placed in the `/data/spaces` folder and the file name should be the same as the `mp3_file_name` field like `letsrune_X.mp3`.
