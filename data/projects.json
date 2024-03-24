@@ -66,6 +66,10 @@
     "status": "LiveService",
     "links": [
       {
+        "url": "https://discord.com/invite/runestone",
+        "type": "Discord"
+      },
+      {
         "url": "https://magiceden.io/ordinals/marketplace/runestone",
         "type": "MagicEden"
       },
