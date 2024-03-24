@@ -247,5 +247,66 @@
       }
     ],
     "tags": ["NFT"]
+  },
+  {
+    "id": "bitcoinburials",
+    "updatedAt": "2024-03-24T00:00:00.000Z",
+    "name": "Bitcoin Burials",
+    "symbol": "TBA",
+    "description": "20k Ordinals, mining & lore, same artist as Bitcoin Frogs.",
+    "longDescription": "Bitcoin Burials and Boneys present an innovative blend of art, history, and blockchain utility, reflecting the resilience and spirit of the Bitcoin ecosystem. Our project begins with Bitcoin Burials, a collection of 10k pixel-art headstones, each marking a false prediction of Bitcoin's end. This series not only showcases Bitcoin's durability but also humorously notes the frequent misjudgments of its demise.\n\nThe narrative deepens with our 10k Boneys collection, where playful, mischievous skeletons, arising from the very criticisms that sought to bury Bitcoin, symbolize the community's enduring spirit and collective defiance against skepticism.\n\nAdding to the allure, we have collaborated on both Bitcoin Burials and Boneys with the artist who gave you Bitcoin Frogs. This partnership ensures the continuation of distinctive, engaging art that has already captured the community's imagination.\n\nThe uniqueness of our project extends into the realm of rune mining. That can be achieved by collectors pairing their Boneys with Burials, offering an immersive, engaging experience. Here, the synergy between Boneys and their corresponding Burials becomes crucial: pairs with rare traits or where the Boney emerged from its specific corresponding Burial enhance mining multipliers, deepening the connection between collector actions and Bitcoin's history.\n\nBy integrating distinctive traits from both collections, we emphasize not just the narrative depth but also the strategic engagement required in the rune mining process. This system encourages collectors to explore the intertwining stories of their Boneys and Burials, promoting a richer, more interactive community experience rooted in the lore and resilience of Bitcoin.",
+    "mainURL": "https://bitcoinburials.com",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://x.com/BitcoinBurials",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.gg/VpvwhNsJeT",
+        "type": "Discord"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/bury",
+        "type": "MagicEden",
+        "label": "Bitcoin Burials"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/boneys",
+        "type": "MagicEden",
+        "label": "Boneys"
+      },
+      {
+        "url": "https://www.coingecko.com/en/nft/bitcoin-burials",
+        "type": "CoinGecko"
+      },
+      {
+        "url": "https://bitcoinburials.substack.com",
+        "type": "Newsletter"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "CryptoKen",
+        "role": "Co-founder",
+        "img": "bitcoinburials_cryptoken.jpg",
+        "links": [
+          {
+            "url": "https://x.com/cryptokencan",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Cadel",
+        "role": "Co-founder",
+        "img": "bitcoinburials_cadel.jpg"
+      },
+      {
+        "name": "Boobalator",
+        "role": "Co-founder",
+        "img": "bitcoinburials_boobalator.jpg"
+      }
+    ]
   }
 ]
