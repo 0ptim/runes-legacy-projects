@@ -308,5 +308,79 @@
         "img": "bitcoinburials_boobalator.jpg"
       }
     ]
+  },
+  {
+    "id": "elementalrunes",
+    "updatedAt": "2024-03-29T00:00:00.000Z",
+    "name": "Elemental Runes",
+    "symbol": "TBA",
+    "description": "Summoning Runes on Bitcoin Block 840000",
+    "longDescription": "At the launch of Runes Protocol on Block 840000, wizardz will etch early Runes and airdrop 31% supply to Elemental Summoners. The remaining 69% will be distributed via public mint during peak demand for Runes. By holding Elemental Runes you will avoid imminent mempool fees & bypass max mint limits, securing your allocation of early Runes on Bitcoin.\n\nEtched Runes allocation tracking begins on block 835000, with 5000 blocks remaining until halving block 840000. All runes summoned from block 835000 until Elemental Runes collection is Sold Out will be distributed to Elemental Runes minters & wizardz as a Mint Bonus allocation. The Elemental Runes collection will be fully inscribed on Alpha & Omega Sats as children of this Runepaper inscription.",
+    "mainURL": "https://magiceden.io/ordinals/marketplace/elemental_runes",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://www.ord.io/64670887 ",
+        "type": "Website",
+        "label": "Ord.io"
+      },
+      {
+        "url": "https://discord.gg/wizardz",
+        "type": "Discord"
+      },
+      {
+        "url": "https://x.com/wizardzBTC",
+        "type": "X"
+      },
+      {
+        "url": "https://wizardz.art",
+        "type": "Website"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/elemental_runes",
+        "type": "MagicEden",
+        "label": "Elemental Runes"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/wizardz",
+        "type": "MagicEden",
+        "label": "wizardz"
+      }
+    ],
+    "initiators": [
+      {
+        "name": "Floridian",
+        "role": "Initiator",
+        "img": "elementalrunes_floridian.jpg",
+        "links": [
+          {
+            "url": "https://x.com/floridian",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "TarnishedG",
+        "role": "Initiator",
+        "img": "elementalrunes_tarnishedg.jpg",
+        "links": [
+          {
+            "url": "https://x.com/tarnishedwiz",
+            "type": "X"
+          }
+        ]
+      },
+      {
+        "name": "Frek Ramp",
+        "role": "Artist",
+        "img": "elementalrunes_frekramp.jpg",
+        "links": [
+          {
+            "url": "https://x.com/frekramp",
+            "type": "X"
+          }
+        ]
+      }
+    ]
   }
 ]
