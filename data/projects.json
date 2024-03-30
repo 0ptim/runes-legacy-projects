@@ -62,9 +62,14 @@
     "symbol": "TBA",
     "description": "Ordinals project blending art, technology, and community.",
     "longDescription": "The Runestones project, initiated by Leonidas with collaboration from OrdinalsBot and Marathon Digital Holdings, is an innovative ordinals collection designed to be airdropped to 112,383 wallets. This unique digital art collection, crafted by the talented Leo Caillard, marks a significant event in the blockchain community by being part of the two largest inscriptions made to date, each nearly 3.97 MB.\n\nThe parent inscription and the Runestone itself were inscribed, setting new records for size within the Bitcoin blockchain. To qualify for the airdrop, owners needed to have three inscriptions in block 826,600, with specific format exclusions.\n\nThis groundbreaking project not only showcases the capabilities of digital art on the blockchain but also provides a unique opportunity for collectors and enthusiasts to be part of a historic moment in cryptocurrency.",
-    "mainURL": "https://www.ord.io/63140674",
+    "mainURL": "https://www.ord.io/63026232",
     "status": "LiveService",
     "links": [
+      {
+        "url": "https://www.ord.io/63026232",
+        "type": "Ordio",
+        "label": "Parent Inscription"
+      },
       {
         "url": "https://discord.com/invite/runestone",
         "type": "Discord"
@@ -133,7 +138,7 @@
     "name": "Runecoin",
     "symbol": "TBA",
     "description": "RSIC: A PEER-TO-PEER RUNE ALLOCATION SYSTEM",
-    "longDescription": "Rune Specific Inscription Circuits (RSIC) is an ordinals collection with 21k inscriptions in total. The goal is to hold these ordinals to \"mine\" the upcoming token launch the project has planned. For every Bitcoin block, a number of tokens will be allocated to the holders.\n\nThe project launched on 20th January 2024 and has distributed all 21k ordinals to the community for free.\n\nTo learn more about the exact details of the mining process, click \"Documentation\" down below.",
+    "longDescription": "Rune Specific Inscription Circuits (RSIC) is an ordinals collection with 21k inscriptions in total. The goal is to hold these ordinals to \"mine\" the upcoming token launch the project has planned. For every Bitcoin block, a number of tokens will be allocated to the holders.\n\nThe project launched on 20th January 2024 and has distributed all 21k ordinals to the community for free.\n\nTo learn more about the exact details of the mining process, click \"On-Chain Docs\" down below.",
     "mainURL": "https://runecoin.io",
     "status": "LiveService",
     "links": [
@@ -151,7 +156,8 @@
       },
       {
         "url": "https://www.ord.io/57066799",
-        "type": "Documentation"
+        "type": "Ordio",
+        "label": "On-Chain Docs"
       }
     ],
     "tags": ["NFT"]
@@ -321,8 +327,8 @@
     "links": [
       {
         "url": "https://www.ord.io/64670887 ",
-        "type": "Website",
-        "label": "Ord.io"
+        "type": "Ordio",
+        "label": "On-Chain Docs"
       },
       {
         "url": "https://discord.gg/wizardz",
