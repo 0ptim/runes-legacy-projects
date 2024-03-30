@@ -38,5 +38,14 @@
     "hosts": ["peddy2612", "DoggfatherCrew"],
     "guests": ["btcordinal", "glyphs_runes", "BitcoinBurials"],
     "mp3_file_name": "letsrune_5.mp3"
+  },
+  {
+    "id": "letsrune_6",
+    "title": "Let's Rune #6: Runes docs released!",
+    "description": "Latest Updates in the Runes Space, Runes docs released and more!",
+    "XSpaceURL": "https://twitter.com/i/spaces/1vAGRvbEYOqGl",
+    "datetime": "2024-03-31 18:00:00 UTC",
+    "hosts": ["peddy2612", "DoggfatherCrew"],
+    "guests": ["XverseApp", "dominikyea", "zackvoell", "thenodeapes"]
   }
 ]
