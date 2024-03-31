@@ -1,4 +1,4 @@
-Get the space URL and get the MP3 file using [Lychee](https://www.lychee.so/download-space)
+Get the space URL and get the MP3 file using [XSpaceGPT](https://twitterspacegpt.com/dashBoard/downloadPage)
 
 Download the MP3 file and save it as `input.mp3`
 
