@@ -388,5 +388,43 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gameofblocks",
+    "updatedAt": "2024-04-13T00:00:00.000Z",
+    "name": "Game Of Blocks",
+    "symbol": "TBA",
+    "description": "Gaming On Bitcoin | Risk ⇨ Reward ▣",
+    "longDescription": "Game of Blocks (GOB) is a captivating new game in the Ordinal space, created by a mysterious yet highly skilled team. This innovative game blends strategy and chance across blockchain technology, allowing players to engage with their \"gobs\" in a unique and interactive way. Starting at block 836144, GOB invites players to participate in a thrilling journey of re-inscribing the word \"gob\" onto their ordinal, risking their gobs for potential high rewards, or choosing a safer path by doing nothing and watching their gobs multiply. With hints at a connection to the intriguing MIME token and strategies that revolve around the timing of your actions, GOB offers an exciting new adventure for blockchain enthusiasts and gamers alike.\n\nGame of Blocks (GOB) Summary:\n1. Gameplay Start: Begins at block 836144.\n2. Phase 1 Duration: 8 tiers, each 144 blocks long, totaling 1,152 blocks (~1 week).\n3. Actions: Players can either re-inscribe 'gob' on their ordinal or do nothing.\n- Re-inscribing: Risks gob being frozen or dying. Odds of freezing improve each tier.\n- Do Nothing: Gobs split, doubling at the end of each tier.\n4. Phase 1 Outcome:\n- If re-inscribing wins, gob freezes and doesn't split further.\n- Doing nothing leads to 256 gobs on an ordinal by the end.\n5. MIME Yield: Related to gob tier; higher yield for lower tiers. Starts at 42,690,000 for genesis tier, roughly halves each tier.\n6. Strategy: Aim for lower tier to secure higher MIME yield, involves risk.\n\nCheck out their Documentation down below to dive into the details.",
+    "mainURL": "https://twitter.com/gob_btc",
+    "status": "LiveService",
+    "links": [
+      {
+        "url": "https://gameofblocks.gitbook.io/gob",
+        "type": "Documentation"
+      },
+      {
+        "url": "https://x.com/gob_btc",
+        "type": "X"
+      },
+      {
+        "url": "https://discord.com/invite/gameofblocks",
+        "type": "Discord"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/gob_btc",
+        "type": "MagicEden"
+      },
+      {
+        "url": "https://magiceden.io/ordinals/marketplace/ded_gob",
+        "type": "MagicEden",
+        "label": "DED GOB"
+      },
+      {
+        "url": "https://ordiscan.com/inscription/65231456",
+        "type": "Website",
+        "label": "Parent Inscription"
+      }
+    ]
   }
 ]
